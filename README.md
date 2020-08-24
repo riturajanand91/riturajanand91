@@ -14,21 +14,14 @@
 
 ## Skills
 
-- Language: Javascript, Ruby, HTML, CSS
-- Framework and Libraries: Sinatra, Rails, Express, jQuery, Node.js.
-- Databases: Mongo, PostgreSQL
-- ORM: Active Records, Mongoose, DataMapper
-- Testing: RSpec, Jasmine, Capybara, Mocha, Zombie
+- Web Services: AWS
+- Language: Javascript, HTML, CSS
+- Framework and Libraries: Angular, Express, Node.js.
+- Databases: Mongo,Firebase
 - Templating Engines: EJS, ERB, Handlebars
+- CMS: Contentful, Wordpress
+- REST APIs 
 
-<br />
-### Connect with me:
-
-[<img align="left" alt="rituraj841 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rituraj841 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rituraj841 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -48,6 +41,15 @@
 
 <br />
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="rituraj841 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rituraj841 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rituraj841 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 
 [twitter]: https://twitter.com/notsogyani
 [instagram]: https://instagram.com/notsogyani
