@@ -1,11 +1,11 @@
 ### Hi there, I'm RITURAJ Anand 👋
 
-[![Instagram](https://img.shields.io/website?label=Rituraj Anand.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/notsogyani/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rituraj Anand?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/notsogyani)
+<!-- [![Instagram](https://img.shields.io/website?label=Rituraj Anand.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/notsogyani/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/notsogyani) -->
 
-## I'm a Developer!
+## I'm a Web Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [AWS Associate Certification]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
