@@ -1,5 +1,5 @@
 ### Hi there, I'm Rituraj Anand 👋
-
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
 
 
 ## I'm a Web Developer!
@@ -10,6 +10,18 @@
 - 🥅 2020 Goals: To learn and improve my skills as much i can
 - ⚡ Fun fact: I love to read books sometimes & a music buff
 
+<a name="Skills"></a>
+
+### Skills
+
+- Language: Javascript, Ruby, HTML, CSS
+- Framework and Libraries: Sinatra, Rails, Express, jQuery, Node.js.
+- Databases: Mongo, PostgreSQL
+- ORM: Active Records, Mongoose, DataMapper
+- Testing: RSpec, Jasmine, Capybara, Mocha, Zombie
+- Templating Engines: EJS, ERB, Handlebars
+
+<br />
 ### Connect with me:
 
 [<img align="left" alt="rituraj841 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
