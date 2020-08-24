@@ -54,7 +54,7 @@
 ## Interests
 
 - :airplane: traveling.
-- :music: Music.
+- ::musical_note: Music.
 - :books:reading
 - :blogs:blogging
 ### Connect with me:
