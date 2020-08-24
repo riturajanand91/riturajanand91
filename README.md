@@ -1,5 +1,5 @@
 ### Hi there, I'm Rituraj Anand 👋
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
+[Skills](#Skills) | [Education](#Education) | [Interests](#Interests)
 
 
 ## I'm a Web Developer!
@@ -46,7 +46,17 @@
 
 #### Uttar Pradesh Technical University(2012-2016)  
 - B.Tech in Computer Science
+## Education
 
+#### Uttar Pradesh Technical University(2012-2016)  
+- B.Tech in Computer Science
+
+## Interests
+
+- :airplane: traveling.
+- :music: Music.
+- :books:reading
+- :blogs:blogging
 ### Connect with me:
 
 [<img align="left" alt="rituraj841 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
