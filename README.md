@@ -40,4 +40,3 @@
 [twitter]: https://twitter.com/notsogyani
 [instagram]: https://instagram.com/notsogyani
 [linkedin]: https://www.linkedin.com/in/rituraj-anand/
-
