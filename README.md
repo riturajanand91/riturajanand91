@@ -12,7 +12,7 @@
 
 <a name="Skills"></a>
 
-### Skills
+## Skills
 
 - Language: Javascript, Ruby, HTML, CSS
 - Framework and Libraries: Sinatra, Rails, Express, jQuery, Node.js.
