@@ -42,6 +42,18 @@
 <br />
 <br />
 
+## Education
+
+#### Uttar Pradesh Technical University(2012-2016)  
+- B.Tech in Computer Science
+
+- Web Services: AWS
+- Language: Javascript, HTML, CSS
+- Framework and Libraries: Angular, Express, Node.js.
+- Databases: Mongo,Firebase
+- Templating Engines: EJS, ERB, Handlebars
+- CMS: Contentful, Wordpress
+- REST APIs 
 ### Connect with me:
 
 [<img align="left" alt="rituraj841 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
