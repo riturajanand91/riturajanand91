@@ -5,14 +5,14 @@
 
 ## I'm a Web Developer!
 
-- 🔭 I’m currently working on a [AWS Associate Certification]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I’m currently working on a [AWS Associate Certification][website]!
+- 🌱 I’m love to learn new technologies 🤣
+- 👯 I’m looking forward to work as a Full Stack Developer
+- 🥅 2020 Goals: To learn and improve my skills as much i can
+- ⚡ Fun fact: I love to read books sometimes & a music buff
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/utxopgstuerolgxdsfq7b2hf0)
 
 ### Connect with me:
 
