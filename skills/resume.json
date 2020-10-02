@@ -1,0 +1,31 @@
+{
+    "rituraj-anand": [
+        {
+            "interests":{
+                "name":"DIY"
+            },
+            "interests":{
+                "name":"IOT"
+            },
+            "interests":{
+                "name":"Skool"
+            }
+        },
+        {
+            "jobHistory": {
+                "designation": "Software Developer",
+                "company": "5476547457546",
+                "duration": "567547457654",
+                "description": "575754"
+            }
+        },
+        {
+            "jobHistory": {
+                "designation": "Branch manager",
+                "company": "5476547457546",
+                "duration": "567547457654",
+                "description": "575754"
+            }
+        }
+    ]
+}
